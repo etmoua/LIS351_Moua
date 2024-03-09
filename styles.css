@@ -1,0 +1,166 @@
+body {
+	background-color: #808080;
+    font-family: georgian, serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10%;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+	font-size: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+.help1 {
+	margin-left: 10%;
+}
+
+#mapimg {
+	width: 40%;
+	height: 50%;
+	float:left;
+	margin-left:5%;
+	margin-right:10%;
+}
+
+.help2 {
+	margin-top:10%;
+}
+
+#largeMon {
+	border: 1px solid black;
+	text-align:center;
+	margin: 0 auto;
+	margin-bottom:2%;
+	
+}
+
+#largeMon tr{
+	border: 1px solid black;
+}
+
+#largeMon td{
+	border: 1px solid black;
+	padding: 1%;
+	width: 200px;
+}
+
+#EpicMon {
+	border: 1px solid black;
+	text-align:center;
+	margin: 0 auto;
+	margin-bottom:2%;
+	
+}
+
+#EpicMon tr{
+	border: 1px solid black;
+	
+}
+
+#EpicMon td{
+	border: 1px solid black;
+	padding: 1%;
+	width: 200px;
+	
+}
+
+.ad{
+	text-align:center;
+	margin-bottom:5%;
+}
+
+.coms1 {
+	font-size:25px;
+}
+
+#gamestable {
+	margin: 0 auto;
+}
+
+#gamestable td{
+	font-size:30px;
+	padding: 15px;
+}
+
+#selfie {
+	width: 45%; 
+    height: 55%; 
+    object-fit: cover;
+	float:left;
+	margin-right: 5%;
+}
+
+#role {
+	text-align:center;
+	margin: 0 auto;
+	margin-bottom:2%;
+	
+}
+	
+
+#role td{
+	text-align:center;
+	padding: 2%;
+	width: 25%;
+	
+}
+
+#game{
+	width:100px;
+	height: 100px;
+}
+#champ {
+	width: 200px;
+	height 200px;
+}
+
+#monster {
+	width:50%;
+	height:50%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: inherit; 
+    text-decoration: none; 
+}
+
+a:visited {
+    color: inherit;
+}
